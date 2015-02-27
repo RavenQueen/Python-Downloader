@@ -1,5 +1,0 @@
-7:24 PM 2/26/2015
-
-* Add Linux installer code.
-* Finish the uninstallation code. (Make it check if python is currently installed so we don't waste bandwidth or time.)
-* 
