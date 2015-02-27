@@ -8,5 +8,5 @@ programming etc.
 
 Future Features:
 A simple language\instruction set for the program to follow to download\verify and install programs.
-Folder structure recreation.
+Folder structure receation.
 Dropbox or other integration to download files from the web and insert them into their correct directories.
